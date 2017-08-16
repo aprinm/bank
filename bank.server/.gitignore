@@ -1,0 +1,9 @@
+/target/
+/bin/
+/build/
+.classpath
+.project
+.settings/
+
+# ignore ma files
+.DS_Store
